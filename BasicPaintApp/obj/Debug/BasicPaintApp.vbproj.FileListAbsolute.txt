@@ -1,0 +1,11 @@
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\bin\Debug\BasicPaintApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\bin\Debug\BasicPaintApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\bin\Debug\BasicPaintApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\bin\Debug\BasicPaintApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.BasicPaintApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.vbproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.vbproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic Paint App VB\Traning Visual Basic - v1\obj\Debug\BasicPaintApp.pdb
